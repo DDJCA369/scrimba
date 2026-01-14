@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+}
+
+main {
+    background-color: #e4e4e4;
+    width: 600px;
+    padding: 0 20px;
+    border: 3px solid #ccc;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    border-top: 3px solid #ccc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    text-align:;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+
+    padding: 25px 50px;
+    border-top: 3px solid #ccc;
+}
